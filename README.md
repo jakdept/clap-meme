@@ -1,4 +1,4 @@
-# clap-meme
+# clapback
 
 > with 👏 great 👏 power 👏 comes 👏 great 👏 responsibility
 
