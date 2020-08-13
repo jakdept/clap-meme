@@ -1,2 +1,9 @@
 # clap-meme
-Takes args, and turns them into the clap meme
+
+> with 👏 great 👏 power 👏 comes 👏 great 👏 responsibility
+
+Install with:
+
+```bash
+go install github.com/jakdept/clapback
+```
