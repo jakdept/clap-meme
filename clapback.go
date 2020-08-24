@@ -8,11 +8,11 @@ import (
 
 func main() {
 	input := os.Args[1:]
-	var clean []string
+	clean := []string{}
 	for _, each := range input {
 		if each != "👏" {
 			clean = append(clean, each)
 		}
 	}
-	fmt.Println(strings.Join(strings.Fields(strings.Join(clean, " ")), " 👏 "))
+	fmt.Println("👏 " + strings.Join(strings.Fields(strings.Join(clean, " ")), " 👏 ") + " 👏")
 }
